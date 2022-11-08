@@ -144,7 +144,6 @@ button {
     color: white;
     font-weight: 600;
     flex: 1 0 auto;
-    border: 2px solid black;
     background: #00000085;
 }
 
